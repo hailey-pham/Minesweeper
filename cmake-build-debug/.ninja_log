@@ -1,0 +1,19 @@
+# ninja log v5
+2	426	6914451241748383	build.ninja	defc73e7939cd6b8
+3	2016	6917611206790117	CMakeFiles/Project_4.dir/Minesweeper.cpp.obj	4d77617f9e03f91a
+3	1314	6917611611969046	CMakeFiles/Project_4.dir/Tile.cpp.obj	d4ed0e3332daa553
+6	2493	6917607440533405	CMakeFiles/Project_4.dir/GameState.cpp.obj	3ee2075d4166237c
+8	1191	6917605441972834	CMakeFiles/Project_4.dir/Toolbox.cpp.obj	d90bc27f638fe62
+5	160	6913246794787328	CMakeFiles/Project_4.dir/main.cpp.obj	915539cd8245d88e
+1314	1492	6917611613698186	Project_4.exe	ac4afc8f115511a0
+7	1447	6914545144082117	CMakeFiles/Project_4.dir/Button.cpp.obj	2062fc8dd97eff0f
+5	2703	6917614053062306	CMakeFiles/Project_4.dir/Minesweeper.cpp.obj	4d77617f9e03f91a
+2704	2914	6917614055101060	Project_4.exe	ac4afc8f115511a0
+17	1000	6917615681091170	CMakeFiles/Project_4.dir/Minesweeper.cpp.obj	4d77617f9e03f91a
+1001	1179	6917615682800124	Project_4.exe	ac4afc8f115511a0
+4	1181	6917618082347548	CMakeFiles/Project_4.dir/Minesweeper.cpp.obj	4d77617f9e03f91a
+1181	1359	6917618084061556	Project_4.exe	ac4afc8f115511a0
+6	1001	6917618346333746	CMakeFiles/Project_4.dir/Minesweeper.cpp.obj	4d77617f9e03f91a
+1001	1175	6917618348012732	Project_4.exe	ac4afc8f115511a0
+4	1285	6917619012783999	CMakeFiles/Project_4.dir/Tile.cpp.obj	d4ed0e3332daa553
+1286	1461	6917619014472942	Project_4.exe	ac4afc8f115511a0
