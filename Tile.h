@@ -24,14 +24,16 @@ private:
     sf::Vector2f tilePosition;
     State state;
 
+    // textures and sprites
     sf::Texture revealedTexture;
     sf::Texture hiddenTexture;
     sf::Texture flaggedTexture;
     sf::Texture explodedTexture;
     sf::Texture emptyTexture;
+    sf::Texture tileTexture;
 
-    sf::Sprite sprite;
-    sf::Sprite overlay;
+    sf::Sprite sprite; // background sprite (revealed or hidden)
+    sf::Sprite overlay; // overlay sprite (number, mine, flag, or empty)
 };
 
 

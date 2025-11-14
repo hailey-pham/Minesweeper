@@ -4,6 +4,7 @@
 
 #ifndef PROJECT_4_BUTTON_H
 #define PROJECT_4_BUTTON_H
+#include <functional>
 #include <iostream>
 #include <SFML/Graphics.hpp>
 using namespace std;

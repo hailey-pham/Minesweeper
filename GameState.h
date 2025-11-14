@@ -16,15 +16,21 @@ public:
     PlayStatus getPlayStatus();
     void setPlayStatus(PlayStatus _status);
 
+    sf::Vector2i getDimensions();
+
 private:
     vector<vector<Tile*>> intToTile(vector<vector<int>> _board);
     PlayStatus playstatus;
     vector<vector<int>> board;
     vector<vector<Tile*>> tileBoard;
+    vector<vector<int>> generateFullBoard();
     int flagCount;
     int mineCount;
     int xCount;
     int yCount;
+    vector<vector<int>> flipBoard();
+
+    void checkWinStatus();
 };
 
 
